@@ -1,0 +1,1918 @@
+{
+  "categories": [
+    {
+      "id": "motivation",
+      "name": "Motivación",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+          "author": "Robert Collier"
+        },
+        {
+          "id": 2,
+          "text": "La única manera de hacer un gran trabajo es amar lo que haces.",
+          "author": "Steve Jobs"
+        },
+        {
+          "id": 3,
+          "text": "Todo lo que puedas imaginar es real.",
+          "author": "Pablo Picasso"
+        },
+        {
+          "id": 4,
+          "text": "El único modo de hacer un gran trabajo es amar lo que haces.",
+          "author": "Steve Jobs"
+        },
+        {
+          "id": 5,
+          "text": "No cuentes los días, haz que los días cuenten.",
+          "author": "Muhammad Ali"
+        },
+        {
+          "id": 6,
+          "text": "El mayor riesgo es no tomar ninguno.",
+          "author": "Mark Zuckerberg"
+        },
+        {
+          "id": 7,
+          "text": "No importa lo lento que vayas, siempre y cuando no te detengas.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 8,
+          "text": "Cree en ti mismo y todo será posible.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 9,
+          "text": "El futuro pertenece a quienes creen en la belleza de sus sueños.",
+          "author": "Eleanor Roosevelt"
+        },
+        {
+          "id": 10,
+          "text": "Si puedes soñarlo, puedes hacerlo.",
+          "author": "Walt Disney"
+        },
+        {
+          "id": 11,
+          "text": "Cada día es una nueva oportunidad para cambiar tu vida.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 12,
+          "text": "Nunca dejes que el miedo decida tu futuro.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 13,
+          "text": "El fracaso es solo la oportunidad de comenzar de nuevo con más inteligencia.",
+          "author": "Henry Ford"
+        },
+        {
+          "id": 14,
+          "text": "Tu única limitación es la que tú te pongas.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 15,
+          "text": "Haz de cada día tu obra maestra.",
+          "author": "John Wooden"
+        },
+        {
+          "id": 16,
+          "text": "No busques oportunidades, créalas.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 17,
+          "text": "Lo único imposible es aquello que no intentas.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 18,
+          "text": "El esfuerzo de hoy es el éxito de mañana.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 19,
+          "text": "Persiste. Si todo fuera fácil, cualquiera lo haría.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 20,
+          "text": "El único lugar donde el éxito viene antes que el trabajo es en el diccionario.",
+          "author": "Vidal Sassoon"
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "name": "Amor",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "El amor no se mira, se siente, y aún más cuando ella está junto a ti.",
+          "author": "Pablo Neruda"
+        },
+        {
+          "id": 2,
+          "text": "El amor es la fuerza más humilde, pero la más poderosa de que dispone el ser humano.",
+          "author": "Mahatma Gandhi"
+        },
+        {
+          "id": 3,
+          "text": "Amar no es mirarse el uno al otro, es mirar juntos en la misma dirección.",
+          "author": "Antoine de Saint-Exupéry"
+        },
+        {
+          "id": 4,
+          "text": "Donde hay amor, hay vida.",
+          "author": "Mahatma Gandhi"
+        },
+        {
+          "id": 5,
+          "text": "El amor es la única locura por la que no se busca cura.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 6,
+          "text": "Te amo no solo por lo que eres, sino por lo que soy cuando estoy contigo.",
+          "author": "Elizabeth Barrett Browning"
+        },
+        {
+          "id": 7,
+          "text": "La mejor manera de encontrar el amor es encontrarlo en ti mismo primero.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 8,
+          "text": "El amor verdadero no tiene final feliz, porque simplemente no tiene final.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 9,
+          "text": "No ser amado es una simple desventura; la verdadera desgracia es no saber amar.",
+          "author": "Albert Camus"
+        },
+        {
+          "id": 10,
+          "text": "Ama hasta que te duela. Si te duele, es buena señal.",
+          "author": "Madre Teresa de Calcuta"
+        },
+        {
+          "id": 11,
+          "text": "El amor no necesita ser entendido, solo necesita ser demostrado.",
+          "author": "Paulo Coelho"
+        },
+        {
+          "id": 12,
+          "text": "El amor no se trata de cuántos días, meses o años han estado juntos, sino de cuánto se aman cada día.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 13,
+          "text": "Si amas a alguien, déjalo libre. Si vuelve, es tuyo; si no, nunca lo fue.",
+          "author": "Richard Bach"
+        },
+        {
+          "id": 14,
+          "text": "El amor es la respuesta, sin importar la pregunta.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 15,
+          "text": "El amor es el puente entre tú y todo lo demás.",
+          "author": "Rumi"
+        },
+        {
+          "id": 16,
+          "text": "Cuando te das cuenta de que quieres pasar el resto de tu vida con alguien, quieres que el resto de tu vida comience lo antes posible.",
+          "author": "Billy Crystal"
+        },
+        {
+          "id": 17,
+          "text": "El amor es el único tesoro que se multiplica al dividirse.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 18,
+          "text": "Si quieres ser amado, ama.",
+          "author": "Séneca"
+        },
+        {
+          "id": 19,
+          "text": "No hay disfraz que pueda largo tiempo ocultar el amor donde lo hay, ni fingirlo donde no lo hay.",
+          "author": "François de La Rochefoucauld"
+        },
+        {
+          "id": 20,
+          "text": "Amar no es solamente querer, es sobre todo comprender.",
+          "author": "Françoise Sagan"
+        }
+      ]
+    },
+    {
+      "id": "wisdom",
+      "name": "Sabiduría",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "La sabiduría no es un producto de la educación, sino del intento de toda la vida para adquirirla.",
+          "author": "Albert Einstein"
+        },
+        {
+          "id": 2,
+          "text": "El conocimiento habla, pero la sabiduría escucha.",
+          "author": "Jimi Hendrix"
+        },
+        {
+          "id": 3,
+          "text": "La sabiduría es la recompensa que obtienes por una vida de escuchar cuando hubieras preferido hablar.",
+          "author": "Doug Larson"
+        },
+        {
+          "id": 4,
+          "text": "El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 5,
+          "text": "La sabiduría comienza en la reflexión.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 6,
+          "text": "La sabiduría es la hija de la experiencia.",
+          "author": "Leonardo da Vinci"
+        },
+        {
+          "id": 7,
+          "text": "El verdadero signo de la sabiduría es la capacidad de aprender de los errores.",
+          "author": "John C. Maxwell"
+        },
+        {
+          "id": 8,
+          "text": "La sabiduría no se puede enseñar, se debe vivir.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 9,
+          "text": "La sabiduría no consiste en saberlo todo, sino en saber qué hacer con lo que sabemos.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 10,
+          "text": "No hay camino hacia la sabiduría, la sabiduría es el camino.",
+          "author": "Lao Tzu"
+        },
+        {
+          "id": 11,
+          "text": "La sabiduría no se encuentra en la información, sino en la experiencia.",
+          "author": "Albert Einstein"
+        },
+        {
+          "id": 12,
+          "text": "El sabio no se deja llevar por lo que le dicen, sino por lo que él mismo ha comprobado.",
+          "author": "Confucio"
+        },
+        {
+          "id": 13,
+          "text": "La sabiduría no es lo mismo que la inteligencia.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 14,
+          "text": "La sabiduría se encuentra en el equilibrio entre lo que sabemos y lo que aún no sabemos.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 15,
+          "text": "La sabiduría es ver la vida con los ojos de los demás.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 16,
+          "text": "La sabiduría se nutre de la humildad.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 17,
+          "text": "La sabiduría es la capacidad de tomar decisiones con buen juicio y discernimiento.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 18,
+          "text": "La sabiduría es saber qué hacer con lo que sabes.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 19,
+          "text": "No hay mayor sabiduría que la del corazón.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 20,
+          "text": "La sabiduría no viene con la edad, sino con el entendimiento de la vida.",
+          "author": "Anónimo"
+        }
+      ]
+    },
+    {
+      "id": "success",
+      "name": "Éxito",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "El fracaso es solo la oportunidad de comenzar de nuevo de forma más inteligente.",
+          "author": "Henry Ford"
+        },
+        {
+          "id": 2,
+          "text": "No cuentes los días, haz que los días cuenten.",
+          "author": "Muhammad Ali"
+        },
+        {
+          "id": 3,
+          "text": "El único lugar donde el éxito viene antes que el trabajo es en el diccionario.",
+          "author": "Vidal Sassoon"
+        },
+        {
+          "id": 4,
+          "text": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+          "author": "Robert Collier"
+        },
+        {
+          "id": 5,
+          "text": "No es el más fuerte el que sobrevive, ni el más inteligente, sino el que mejor se adapta al cambio.",
+          "author": "Charles Darwin"
+        },
+        {
+          "id": 6,
+          "text": "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito.",
+          "author": "Albert Schweitzer"
+        },
+        {
+          "id": 7,
+          "text": "La única forma de hacer un gran trabajo es amar lo que haces.",
+          "author": "Steve Jobs"
+        },
+        {
+          "id": 8,
+          "text": "El éxito es aprender a ir de fracaso en fracaso sin desesperarse.",
+          "author": "Winston Churchill"
+        },
+        {
+          "id": 9,
+          "text": "El éxito no es cuánto dinero haces, sino la diferencia que haces en las vidas de los demás.",
+          "author": "Michelle Obama"
+        },
+        {
+          "id": 10,
+          "text": "No te detengas cuando estés cansado, detente cuando hayas terminado.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 11,
+          "text": "El éxito es vivir la vida de tus sueños.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 12,
+          "text": "La vida es 10% lo que te sucede y 90% cómo reaccionas ante ello.",
+          "author": "Charles R. Swindoll"
+        },
+        {
+          "id": 13,
+          "text": "No busques el éxito, busca ser significativo.",
+          "author": "Oprah Winfrey"
+        },
+        {
+          "id": 14,
+          "text": "El éxito es hacer lo que quieres hacer y disfrutar del proceso.",
+          "author": "Jim Rohn"
+        },
+        {
+          "id": 15,
+          "text": "El éxito es alcanzar lo que los demás piensan que es imposible.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 16,
+          "text": "Las personas que están lo suficientemente locas como para pensar que pueden cambiar el mundo, son las que lo hacen.",
+          "author": "Rob Siltanen"
+        },
+        {
+          "id": 17,
+          "text": "No tengas miedo de renunciar a lo bueno para ir a por lo grandioso.",
+          "author": "John D. Rockefeller"
+        },
+        {
+          "id": 18,
+          "text": "La única limitación a nuestros logros de mañana son nuestras dudas y vacilaciones de hoy.",
+          "author": "Franklin D. Roosevelt"
+        },
+        {
+          "id": 19,
+          "text": "El éxito no se mide por lo que logras, sino por los obstáculos que superas.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 20,
+          "text": "No te rindas, cada fracaso es un paso hacia el éxito.",
+          "author": "Anónimo"
+        }
+      ]
+    },
+    {
+      "id": "happiness",
+      "name": "Felicidad",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "La felicidad no es algo hecho. Viene de tus propias acciones.",
+          "author": "Dalai Lama"
+        },
+        {
+          "id": 2,
+          "text": "La mejor manera de alegrarte es alegrar a alguien más.",
+          "author": "Mark Twain"
+        },
+        {
+          "id": 3,
+          "text": "La felicidad no depende de lo que tienes, sino de lo que eres.",
+          "author": "Hugh Downs"
+        },
+        {
+          "id": 4,
+          "text": "La felicidad es el significado y el propósito de la vida, la meta total y la finalidad de la existencia humana.",
+          "author": "Aristóteles"
+        },
+        {
+          "id": 5,
+          "text": "La felicidad es la única cosa que se multiplica cuando se divide.",
+          "author": "Albert Schweitzer"
+        },
+        {
+          "id": 6,
+          "text": "La felicidad está en el corazón, no en las circunstancias.",
+          "author": "Henry Wadsworth Longfellow"
+        },
+        {
+          "id": 7,
+          "text": "La felicidad no es un destino, es una forma de viajar.",
+          "author": "Margaret Lee Runbeck"
+        },
+        {
+          "id": 8,
+          "text": "La felicidad es tener algo que hacer, algo que amar y algo que esperar.",
+          "author": "Aristóteles"
+        },
+        {
+          "id": 9,
+          "text": "La felicidad es no tener miedo de ser tú mismo.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 10,
+          "text": "La felicidad no está en las cosas que posees, sino en las personas que tienes a tu lado.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 11,
+          "text": "La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía.",
+          "author": "Mahatma Gandhi"
+        },
+        {
+          "id": 12,
+          "text": "La felicidad no es tener todo lo que quieres, sino querer todo lo que tienes.",
+          "author": "Hyman Schachtel"
+        },
+        {
+          "id": 13,
+          "text": "La felicidad es una dirección, no un lugar.",
+          "author": "Sydney J. Harris"
+        },
+        {
+          "id": 14,
+          "text": "La felicidad consiste en saber disfrutar de las pequeñas cosas.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 15,
+          "text": "La felicidad no es algo que se pospone, es algo que se diseña para el presente.",
+          "author": "Jim Rohn"
+        },
+        {
+          "id": 16,
+          "text": "La felicidad está en disfrutar del momento presente, sin preocuparse por lo que no podemos controlar.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 17,
+          "text": "La felicidad es un estado mental, no una situación material.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 18,
+          "text": "La felicidad es encontrar paz y alegría en cada paso del viaje, no en el destino.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 19,
+          "text": "La felicidad no se encuentra en lo que tienes, sino en lo que eres.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 20,
+          "text": "La verdadera felicidad es disfrutar del presente, sin depender ansiosamente del futuro.",
+          "author": "Seneca"
+        }
+      ]
+    },
+    {
+      "id": "friendship",
+      "name": "Amistad",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "Un amigo es alguien que te conoce tal como eres, comprende dónde has estado, acepta en lo que te has convertido y aun así, te permite crecer.",
+          "author": "William Shakespeare"
+        },
+        {
+          "id": 2,
+          "text": "La amistad duplica las alegrías y divide las angustias por la mitad.",
+          "author": "Francis Bacon"
+        },
+        {
+          "id": 3,
+          "text": "Un amigo es uno que lo sabe todo de ti y a pesar de ello te quiere.",
+          "author": "Elbert Hubbard"
+        },
+        {
+          "id": 4,
+          "text": "La amistad es un alma que habita en dos cuerpos; un corazón que habita en dos almas.",
+          "author": "Aristóteles"
+        },
+        {
+          "id": 5,
+          "text": "La amistad es el ingrediente más importante en la receta de la vida.",
+          "author": "Jean de La Fontaine"
+        },
+        {
+          "id": 6,
+          "text": "La verdadera amistad llega cuando el silencio entre dos personas es cómodo.",
+          "author": "David Tyson"
+        },
+        {
+          "id": 7,
+          "text": "Un amigo verdadero es alguien que te apoya, incluso cuando la vida te hace tambalear.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 8,
+          "text": "Los amigos son la familia que elegimos para nosotros mismos.",
+          "author": "Edna Buchanan"
+        },
+        {
+          "id": 9,
+          "text": "Amigos son aquellos extraños seres que nos preguntan cómo estamos y luego esperan a escuchar la respuesta.",
+          "author": "Ed Cunningham"
+        },
+        {
+          "id": 10,
+          "text": "La amistad es un contrato por el que ambas partes se comprometen a decirse la verdad, a veces incluso sin hablar.",
+          "author": "Anónimo"
+        }
+      ]
+    },
+    {
+      "id": "dreams",
+      "name": "Sueños",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "Todos nuestros sueños se pueden hacer realidad si tenemos el coraje de perseguirlos.",
+          "author": "Walt Disney"
+        },
+        {
+          "id": 2,
+          "text": "El futuro pertenece a aquellos que creen en la belleza de sus sueños.",
+          "author": "Eleanor Roosevelt"
+        },
+        {
+          "id": 3,
+          "text": "Los sueños no funcionan a menos que tú lo hagas.",
+          "author": "John C. Maxwell"
+        },
+        {
+          "id": 4,
+          "text": "No dejes que tus sueños sean solo sueños.",
+          "author": "Jack Johnson"
+        },
+        {
+          "id": 5,
+          "text": "Un sueño sin acción es solo un sueño.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 6,
+          "text": "La vida es demasiado corta para esperar a que los sueños se hagan realidad, ¡sal y hazlos realidad!",
+          "author": "Anónimo"
+        },
+        {
+          "id": 7,
+          "text": "Sueña en grande y atrévete a fallar.",
+          "author": "Norman Vaughan"
+        },
+        {
+          "id": 8,
+          "text": "Cada sueño comienza con un soñador. Recuerda, tienes dentro de ti la fuerza, la paciencia y la pasión para llegar a las estrellas para cambiar el mundo.",
+          "author": "Harriet Tubman"
+        },
+        {
+          "id": 9,
+          "text": "Solo los que se atreven a tener grandes fracasos terminan logrando grandes éxitos.",
+          "author": "Robert F. Kennedy"
+        },
+        {
+          "id": 10,
+          "text": "Tu vida es el resultado de tus propios sueños, por lo tanto, sueña en grande.",
+          "author": "Anónimo"
+        }
+      ]
+    },
+    {
+      "id": "courage",
+      "name": "Valentía",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "El coraje no es la ausencia de miedo, sino el triunfo sobre él.",
+          "author": "Nelson Mandela"
+        },
+        {
+          "id": 2,
+          "text": "Todo lo que siempre has querido está al otro lado del miedo.",
+          "author": "George Addair"
+        },
+        {
+          "id": 3,
+          "text": "La valentía no es la falta de miedo, sino la capacidad de enfrentarlo.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 4,
+          "text": "El valor no siempre ruge. A veces, es la pequeña voz al final del día que dice: 'Lo intentaré de nuevo mañana'.",
+          "author": "Mary Anne Radmacher"
+        },
+        {
+          "id": 5,
+          "text": "El coraje es la resistencia al miedo, el dominio del miedo, no la ausencia de miedo.",
+          "author": "Mark Twain"
+        },
+        {
+          "id": 6,
+          "text": "Los valientes no son aquellos que nunca sienten miedo, sino aquellos que enfrentan sus miedos.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 7,
+          "text": "La valentía es poder ser el único en saber que tienes miedo.",
+          "author": "Kurt Vonnegut"
+        },
+        {
+          "id": 8,
+          "text": "El coraje es el primer paso hacia la libertad.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 9,
+          "text": "El verdadero coraje es hacer lo correcto sin importar las consecuencias.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 10,
+          "text": "Para ser valiente no se necesita ser invulnerable, sino aceptar que el miedo es una parte de la vida.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 11,
+          "text": "La valentía no consiste en no sentir miedo, sino en hacer lo correcto a pesar de él.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 12,
+          "text": "El coraje no significa ser inmune al miedo, sino ser capaz de actuar a pesar de él.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 13,
+          "text": "Si no eres valiente, nunca sabrás lo que eres capaz de hacer.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 14,
+          "text": "El coraje se encuentra en hacer lo que es difícil, lo que es correcto y lo que es necesario.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 15,
+          "text": "Solo aquellos que se atreven a fallar pueden lograr grandes cosas.",
+          "author": "Robert F. Kennedy"
+        },
+        {
+          "id": 16,
+          "text": "El miedo es un tipo de parálisis, y la valentía es la clave para liberarse de él.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 17,
+          "text": "El coraje no es la fuerza física, sino la fortaleza mental para enfrentar cualquier desafío.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 18,
+          "text": "Ser valiente no es no tener miedo, sino tomar acción a pesar de él.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 19,
+          "text": "La valentía es el único antídoto contra el miedo.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 20,
+          "text": "Cada vez que enfrentas tus miedos, te haces más fuerte.",
+          "author": "Anónimo"
+        }
+      ]
+    },
+    {
+      "id": "perseverance",
+      "name": "Perseverancia",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "La perseverancia no es una carrera larga; son muchas carreras cortas una tras otra.",
+          "author": "Walter Elliot"
+        },
+        {
+          "id": 2,
+          "text": "El éxito es tropezar de fracaso en fracaso sin perder el entusiasmo.",
+          "author": "Winston Churchill"
+        },
+        {
+          "id": 3,
+          "text": "La perseverancia es la clave para lograr lo que deseas.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 4,
+          "text": "No te detengas cuando estés cansado, detente cuando hayas terminado.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 5,
+          "text": "La perseverancia convierte lo imposible en posible.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 6,
+          "text": "La verdadera medida de la perseverancia no es cuántas veces caemos, sino cuántas veces nos levantamos.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 7,
+          "text": "Si puedes soñarlo, puedes lograrlo. Solo sigue adelante.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 8,
+          "text": "La perseverancia es el trabajo constante que te lleva al éxito.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 9,
+          "text": "El camino al éxito está pavimentado con perseverancia.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 10,
+          "text": "No hay atajos para alcanzar el éxito. La perseverancia es la clave.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 11,
+          "text": "La perseverancia nos da la oportunidad de aprender y mejorar cada día.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 12,
+          "text": "La perseverancia es el arte de no rendirse.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 13,
+          "text": "La diferencia entre el éxito y el fracaso es la perseverancia.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 14,
+          "text": "El que persevera, alcanza.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 15,
+          "text": "La perseverancia es la base de todos los logros.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 16,
+          "text": "Nunca te rindas, las grandes cosas toman tiempo.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 17,
+          "text": "La perseverancia es la fuerza para seguir adelante cuando todo parece en contra.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 18,
+          "text": "Con perseverancia, lo imposible se convierte en inevitable.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 19,
+          "text": "El éxito no es para los que nunca fracasan, sino para los que nunca se rinden.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 20,
+          "text": "Solo aquellos que se niegan a rendirse, logran lo que se proponen.",
+          "author": "Anónimo"
+        }
+      ]
+    },
+    {
+      "id": "jokes",
+      "name": "Chistes",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "¿Qué le dice un jardinero a otro jardinero? Nos vemos cuando podamos.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 2,
+          "text": "¿Sabes qué le dice un ciego a otro ciego? Nos vemos luego.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 3,
+          "text": "¿Por qué los peces no usan Facebook? Porque le tienen miedo a la red.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 4,
+          "text": "¿Cuál es el café más peligroso del mundo? El ex-preso.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 5,
+          "text": "Mamá, en el colegio me llaman Facebook. ¿Y tú qué les dices? Me gusta.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 6,
+          "text": "¿Qué le dice una impresora a otra? ¿Esa hoja es tuya o es una impresión mía?",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 7,
+          "text": "¿Por qué el libro de matemáticas estaba triste? Porque tenía demasiados problemas.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 8,
+          "text": "¿Cómo se despiden los químicos? Ácido un placer.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 9,
+          "text": "Papá, ¿qué se siente tener un hijo tan guapo? No sé hijo, pregúntale a tu abuelo.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 10,
+          "text": "¿Cuál es el animal más antiguo? La cebra, porque está en blanco y negro.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 11,
+          "text": "¿Por qué el tomate no toma café? Porque toma-te.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 12,
+          "text": "¿Cómo se llama el campeón de buceo japonés? Tokofondo.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 13,
+          "text": "¿Cuál es el colmo de Aladdín? Tener mal genio.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 14,
+          "text": "¿Por qué el libro de historia estaba siempre deprimido? Porque tenía demasiados capítulos tristes.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 15,
+          "text": "¿Qué le dice un huevo a otro huevo? ¡Omeletté!",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 16,
+          "text": "¿Cuál es el colmo de un electricista? No encontrar corriente.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 17,
+          "text": "¿Cómo se llama el campeón de buceo ruso? Nikitokofondo.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 18,
+          "text": "¿Cuál es el café más suave del mundo? El descafeinado.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 19,
+          "text": "¿Por qué el sol nunca fue a la universidad? Porque ya tenía muchos grados.",
+          "author": "Chiste popular"
+        },
+        {
+          "id": 20,
+          "text": "¿Qué hace una abeja en el gimnasio? ¡Zum-ba!",
+          "author": "Chiste popular"
+        }
+      ]
+    },
+    {
+      "id": "smart_humor",
+      "name": "Humor inteligente",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "A veces las personas no quieren escuchar la verdad porque no quieren que sus ilusiones sean destruidas.",
+          "author": "Friedrich Nietzsche"
+        },
+        {
+          "id": 2,
+          "text": "Hay dos cosas infinitas: el universo y la estupidez humana; y no estoy seguro sobre el universo.",
+          "author": "Albert Einstein"
+        },
+        {
+          "id": 3,
+          "text": "Si los políticos pudieran ver el futuro, harían mejores promesas.",
+          "author": "Woody Allen"
+        },
+        {
+          "id": 4,
+          "text": "No soy vago, estoy en modo ahorro de energía.",
+          "author": "Frase ingeniosa"
+        },
+        {
+          "id": 5,
+          "text": "El dinero no da la felicidad, pero prefiero llorar en un Ferrari.",
+          "author": "Frase ingeniosa"
+        },
+        {
+          "id": 6,
+          "text": "El cerebro es un órgano maravilloso. Comienza a trabajar cuando te levantas y no se detiene hasta que entras a la oficina.",
+          "author": "Robert Frost"
+        },
+        {
+          "id": 7,
+          "text": "Si crees que nadie te escucha, intenta no pagar la hipoteca.",
+          "author": "Frase ingeniosa"
+        },
+        {
+          "id": 8,
+          "text": "La mejor forma de enseñar es con el ejemplo, por eso intento no dar ejemplos.",
+          "author": "Frase ingeniosa"
+        },
+        {
+          "id": 9,
+          "text": "La diplomacia es el arte de decir 'lindo perrito' hasta que encuentras una piedra.",
+          "author": "Will Rogers"
+        },
+        {
+          "id": 10,
+          "text": "La vida es corta. Sonríe mientras todavía tienes dientes.",
+          "author": "Frase ingeniosa"
+        },
+        {
+          "id": 11,
+          "text": "Tengo un plan para ser millonario. Es un plan de 25 años. Solo me quedan 24.",
+          "author": "Frase ingeniosa"
+        },
+        {
+          "id": 12,
+          "text": "Los expertos dicen que el 99% de las estadísticas son inventadas.",
+          "author": "Frase ingeniosa"
+        },
+        {
+          "id": 13,
+          "text": "Si la montaña viene hacia ti, corre, porque es un derrumbe.",
+          "author": "Frase ingeniosa"
+        },
+        {
+          "id": 14,
+          "text": "La experiencia es algo que consigues justo después de necesitarla.",
+          "author": "Frase ingeniosa"
+        },
+        {
+          "id": 15,
+          "text": "Prefiero la sabiduría de la ignorancia que la ignorancia de la sabiduría.",
+          "author": "Frase ingeniosa"
+        },
+        {
+          "id": 16,
+          "text": "Cuando creía tener todas las respuestas, cambiaron las preguntas.",
+          "author": "Mario Benedetti"
+        },
+        {
+          "id": 17,
+          "text": "Dicen que el dinero no compra la felicidad, pero nunca he visto a alguien triste en un yate.",
+          "author": "Frase ingeniosa"
+        },
+        {
+          "id": 18,
+          "text": "El problema de hacer dieta es que te das cuenta de que la comida no es solo comida, es felicidad.",
+          "author": "Frase ingeniosa"
+        },
+        {
+          "id": 19,
+          "text": "El secreto de la creatividad está en saber esconder tus fuentes.",
+          "author": "Albert Einstein"
+        },
+        {
+          "id": 20,
+          "text": "El sentido común es tan poco común que debería llamarse sentido raro.",
+          "author": "Frase ingeniosa"
+        }
+      ]
+    },
+    {
+      "id": "curiosities",
+      "name": "Curiosidades",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "Las huellas digitales de un koala son tan similares a las humanas que en ocasiones han sido confundidas en escenas del crimen.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 2,
+          "text": "El 'Síndrome de la Llamada Fantasma' es la sensación de que el teléfono está vibrando cuando en realidad no lo está haciendo.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 3,
+          "text": "La miel es el único alimento que no se descompone. Se han encontrado tarros de miel en tumbas egipcias de más de 3,000 años que siguen siendo perfectamente comestibles.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 4,
+          "text": "Un día en Venus es más largo que un año en Venus debido a su lenta rotación sobre su eje.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 5,
+          "text": "Los pulpos tienen tres corazones y su sangre es de color azul debido a la hemocianina, un pigmento rico en cobre.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 6,
+          "text": "Los cuervos pueden recordar rostros humanos y transmitir esa información a otros cuervos.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 7,
+          "text": "Los flamencos pueden beber agua hirviendo de fuentes termales sin quemarse.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 8,
+          "text": "La Gran Muralla China no es visible desde la Luna a simple vista, a pesar del mito popular.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 9,
+          "text": "Los tiburones han existido por más tiempo que los árboles, ya que han estado en la Tierra por más de 400 millones de años.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 10,
+          "text": "Las zanahorias solían ser de color morado, rojo o blanco antes de que los holandeses popularizaran la variedad naranja en el siglo XVII.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 11,
+          "text": "Los plátanos son bayas, pero las fresas no lo son según la botánica.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 12,
+          "text": "Las mariposas pueden saborear con sus patas gracias a sensores gustativos en ellas.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 13,
+          "text": "El corazón de una ballena azul puede pesar tanto como un automóvil pequeño.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 14,
+          "text": "Las sandías fueron un alimento básico en el Antiguo Egipto y se han encontrado dibujos de ellas en tumbas faraónicas.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 15,
+          "text": "Las abejas pueden reconocer rostros humanos usando un mecanismo similar al del cerebro humano.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 16,
+          "text": "Los delfines tienen nombres individuales y pueden llamarse entre sí.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 17,
+          "text": "Los astronautas no pueden eructar en el espacio porque la falta de gravedad impide que los gases se separen de los líquidos en el estómago.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 18,
+          "text": "El pez payaso puede cambiar de sexo si la hembra del grupo muere.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 19,
+          "text": "El Monte Everest sigue creciendo aproximadamente 4 milímetros al año debido al movimiento de las placas tectónicas.",
+          "author": "Dato curioso"
+        },
+        {
+          "id": 20,
+          "text": "Un solo rayo puede calentar el aire a su alrededor a temperaturas cinco veces más calientes que la superficie del Sol.",
+          "author": "Dato curioso"
+        }
+      ]
+    },
+    {
+      "id": "riddles",
+      "name": "Acertijos",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "¿Qué cosa es que cuanto más le quitas más grande es? Un hoyo.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 2,
+          "text": "Blanco por dentro, verde por fuera. Si quieres que te lo diga, espera. La pera.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 3,
+          "text": "¿Qué es lo que se hace de noche, que no se puede hacer de día? Dormir.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 4,
+          "text": "Vuelo sin alas, lloro sin ojos. ¿Quién soy? Una nube.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 5,
+          "text": "Tiene dientes y no muerde, tiene cabeza y no es gente. ¿Qué es? Un ajo.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 6,
+          "text": "Cuantos más me quitas, más grande soy. ¿Qué soy? Un agujero.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 7,
+          "text": "Si me nombras, desaparezco. ¿Qué soy? El silencio.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 8,
+          "text": "Tiene ojos y no puede ver, tiene agua y no sabe beber. ¿Qué es? Una aguja.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 9,
+          "text": "Sube llena y baja vacía, y si no se apura, la sopa se enfría. ¿Qué es? La cuchara.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 10,
+          "text": "Largo, largo como una serpiente, pero no tiene vida ni dientes. ¿Qué es? Un río.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 11,
+          "text": "Te la digo, te la digo, te la vuelvo a repetir, te la digo veinte veces y no la sabes decir. ¿Qué es? La tela.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 12,
+          "text": "No es cama ni es león y desaparece en cualquier rincón. ¿Qué es? El camaleón.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 13,
+          "text": "Tengo patas y no camino, tengo ojos y no veo. ¿Qué soy? Un dado.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 14,
+          "text": "Una señora con un solo diente que llama a toda la gente. ¿Qué es? La campana.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 15,
+          "text": "Si me tiras desde lo alto, no sufro ningún daño; pero si me metes al agua, seguro me deshago. ¿Qué soy? Un papel.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 16,
+          "text": "Redonda soy, ruedo sin cesar, me llenan de aire para poder andar. ¿Qué soy? Una llanta.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 17,
+          "text": "Tiene cuello pero no cabeza, y si no la cuidas, desaparece. ¿Qué es? Una botella.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 18,
+          "text": "Sin ser árbol, tengo hojas y sin ser pájaro, plumas. ¿Qué soy? Un libro.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 19,
+          "text": "Cuatro patas tiene y no puede correr, una tabla encima y la puedes poner. ¿Qué es? Una mesa.",
+          "author": "Acertijo popular"
+        },
+        {
+          "id": 20,
+          "text": "Cuando me necesitas, me tiras. Cuando no me necesitas, me subes. ¿Qué soy? Un ancla.",
+          "author": "Acertijo popular"
+        }
+      ]
+    },
+    {
+      "id": "proverbs",
+      "name": "Refranes populares",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "A caballo regalado no le mires el diente.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 2,
+          "text": "Más vale pájaro en mano que ciento volando.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 3,
+          "text": "A quien madruga, Dios le ayuda.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 4,
+          "text": "No por mucho madrugar amanece más temprano.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 5,
+          "text": "El que mucho abarca, poco aprieta.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 6,
+          "text": "Camarón que se duerme, se lo lleva la corriente.",
+          "author": "Refrán latinoamericano"
+        },
+        {
+          "id": 7,
+          "text": "En casa de herrero, cuchillo de palo.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 8,
+          "text": "Haz bien y no mires a quién.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 9,
+          "text": "Más vale tarde que nunca.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 10,
+          "text": "Cuando el río suena, agua lleva.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 11,
+          "text": "Al mal tiempo, buena cara.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 12,
+          "text": "No todo lo que brilla es oro.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 13,
+          "text": "El que tiene boca se equivoca.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 14,
+          "text": "El hábito no hace al monje.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 15,
+          "text": "Dime con quién andas y te diré quién eres.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 16,
+          "text": "Ojos que no ven, corazón que no siente.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 17,
+          "text": "Cría cuervos y te sacarán los ojos.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 18,
+          "text": "Lo cortés no quita lo valiente.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 19,
+          "text": "Donde hubo fuego, cenizas quedan.",
+          "author": "Refrán español"
+        },
+        {
+          "id": 20,
+          "text": "El que no arriesga, no gana.",
+          "author": "Refrán español"
+        }
+      ]
+    },
+    {
+      "id": "movie_quotes",
+      "name": "Frases de películas",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "Hasta la vista, baby.",
+          "author": "Terminator 2: El juicio final"
+        },
+        {
+          "id": 2,
+          "text": "Yo soy tu padre.",
+          "author": "Star Wars: El Imperio Contraataca"
+        },
+        {
+          "id": 3,
+          "text": "La vida es como una caja de chocolates, nunca sabes lo que te va a tocar.",
+          "author": "Forrest Gump"
+        },
+        {
+          "id": 4,
+          "text": "Que la Fuerza te acompañe.",
+          "author": "Star Wars"
+        },
+        {
+          "id": 5,
+          "text": "Siempre nos quedará París.",
+          "author": "Casablanca"
+        },
+        {
+          "id": 6,
+          "text": "Nadie es perfecto.",
+          "author": "Una Eva y dos Adanes"
+        },
+        {
+          "id": 7,
+          "text": "Volveré.",
+          "author": "Terminator"
+        },
+        {
+          "id": 8,
+          "text": "Aquí tienes a Johnny.",
+          "author": "El resplandor"
+        },
+        {
+          "id": 9,
+          "text": "Houston, tenemos un problema.",
+          "author": "Apolo 13"
+        },
+        {
+          "id": 10,
+          "text": "Francamente, querida, me importa un bledo.",
+          "author": "Lo que el viento se llevó"
+        },
+        {
+          "id": 11,
+          "text": "¿Por qué tan serio?",
+          "author": "El caballero de la noche"
+        },
+        {
+          "id": 12,
+          "text": "Te haré una oferta que no podrás rechazar.",
+          "author": "El padrino"
+        },
+        {
+          "id": 13,
+          "text": "No hay lugar como el hogar.",
+          "author": "El mago de Oz"
+        },
+        {
+          "id": 14,
+          "text": "Corre, Forrest, corre.",
+          "author": "Forrest Gump"
+        },
+        {
+          "id": 15,
+          "text": "Elemental, mi querido Watson.",
+          "author": "Las aventuras de Sherlock Holmes"
+        },
+        {
+          "id": 16,
+          "text": "El miedo es el camino hacia el Lado Oscuro.",
+          "author": "Star Wars: La amenaza fantasma"
+        },
+        {
+          "id": 17,
+          "text": "Yo veo gente muerta.",
+          "author": "El sexto sentido"
+        },
+        {
+          "id": 18,
+          "text": "Sayonara, baby.",
+          "author": "Terminator 2: El juicio final"
+        },
+        {
+          "id": 19,
+          "text": "Tienes que ver el lado bueno de la vida.",
+          "author": "La vida de Brian"
+        },
+        {
+          "id": 20,
+          "text": "No puedes manejar la verdad.",
+          "author": "Cuestión de honor"
+        }
+      ]
+    },
+    {
+      "id": "tongue_twisters",
+      "name": "Trabalenguas",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "Tres tristes tigres tragaban trigo en un trigal.",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 2,
+          "text": "Pablito clavó un clavito, ¿qué clavito clavó Pablito?",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 3,
+          "text": "El cielo está enladrillado, ¿quién lo desenladrillará? El desenladrillador que lo desenladrille, buen desenladrillador será.",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 4,
+          "text": "Erre con erre guitarra, erre con erre barril, rápido ruedan las ruedas del ferrocarril.",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 5,
+          "text": "Pepe pecas pica papas con un pico, con un pico pica papas Pepe pecas.",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 6,
+          "text": "Cómo quieres que te quiera si el que quiero que me quiera no me quiere como quiero que me quiera.",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 7,
+          "text": "La bruja piruja prepara un brebaje con cáscaras de cebolla y hojas de agave.",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 8,
+          "text": "Mi mamá me mima mucho y yo mimo a mi mamá.",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 9,
+          "text": "Juan tuvo un tubo y el tubo que tuvo se le rompió. Para recuperar el tubo tuvo que comprar un tubo igual al tubo que tuvo.",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 10,
+          "text": "El perro de San Roque no tiene rabo porque Ramón Rodríguez se lo ha robado.",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 11,
+          "text": "Si Pancha plancha con cuatro planchas, ¿con cuántas planchas plancha Pancha?",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 12,
+          "text": "El amor es una locura que solo el cura lo cura, pero el cura que lo cura comete una gran locura.",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 13,
+          "text": "Un tubo tiró un tubo y otro tubo lo detuvo. Hay muchos tubos tirados, ¿quién los recogerá?",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 14,
+          "text": "El hipopótamo hipo tiene hipo. ¿Quién le quita el hipo al hipopótamo hipo?",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 15,
+          "text": "Si tu gusto gustara del gusto que gusta mi gusto, mi gusto gustaría del gusto que gusta tu gusto.",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 16,
+          "text": "Rosa rosada, rosa roja, rosa rota. Rosa rosada, rosa roja, rosa rota.",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 17,
+          "text": "La vaca Lola tiene cola y una bola en la cola de la vaca Lola.",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 18,
+          "text": "Gallo gordo, grande y gris, grita, gruñe y gorgorea en el granero gris.",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 19,
+          "text": "El otorrinolaringólogo de Parangaricutirimícuaro se quiere desotorrinolaringologuizar.",
+          "author": "Trabalenguas popular"
+        },
+        {
+          "id": 20,
+          "text": "Pedro Pérez pintor pinta preciosos paisajes por poca plata para pobres pasajeros.",
+          "author": "Trabalenguas popular"
+        }
+      ]
+    },
+    {
+      "id": "short_stories",
+      "name": "Relatos cortos",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "Cuando despertó, el dinosaurio todavía estaba allí.",
+          "author": "Augusto Monterroso"
+        },
+        {
+          "id": 2,
+          "text": "El último hombre sobre la Tierra estaba sentado solo en una habitación. Alguien llamó a la puerta...",
+          "author": "Fredric Brown"
+        },
+        {
+          "id": 3,
+          "text": "La vida no es la que uno vivió, sino la que uno recuerda y cómo la recuerda para contarla.",
+          "author": "Gabriel García Márquez"
+        },
+        {
+          "id": 4,
+          "text": "Vendí mi sombra para comprar un espejo, pero ahora no reflejo nada.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 5,
+          "text": "Caminé por el bosque y encontré mi propio nombre grabado en la corteza de un árbol que nunca antes había visto.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 6,
+          "text": "El niño pidió un deseo al soplar las velas. Nadie más en la fiesta volvió a ver el sol.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 7,
+          "text": "Anoche soñé que despertaba. Esta mañana, cuando desperté, no estaba seguro de haberlo hecho.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 8,
+          "text": "La carta llegó 30 años después. La tinta aún fresca decía: 'No salgas esta noche'.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 9,
+          "text": "Subí al tren equivocado y llegué a un destino que no existía en ningún mapa.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 10,
+          "text": "Nunca supe cómo mi sombra aprendió a moverse antes que yo.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 11,
+          "text": "Me miró a los ojos y me dijo: 'No temas'. Yo aún no le había contado mi miedo.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 12,
+          "text": "El espejo reflejaba mi cuarto, pero no a mí.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 13,
+          "text": "Dejé la puerta entreabierta y, cuando volví, estaba cerrada desde dentro.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 14,
+          "text": "El cuadro en la pared mostraba mi habitación. Cada día, aparecía alguien más en la imagen.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 15,
+          "text": "El libro decía exactamente lo que estaba haciendo en ese instante. En la última página, decía: 'Deja de leer'.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 16,
+          "text": "Apagué la luz y me acosté. Desde el armario, alguien hizo lo mismo.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 17,
+          "text": "Escribió en la arena: 'Volveré'. La ola lo borró, pero el mensaje apareció grabado en la roca.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 18,
+          "text": "Lo abrazó con todas sus fuerzas antes de que se desvaneciera con el amanecer.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 19,
+          "text": "El teléfono sonó. Contesté. Era mi propia voz, pidiéndome que no atendiera.",
+          "author": "Anónimo"
+        },
+        {
+          "id": 20,
+          "text": "Cada noche ponía un plato más en la mesa. Nunca cenaba solo.",
+          "author": "Anónimo"
+        }
+      ]
+    },
+    {
+      "id": "practical_tips",
+      "name": "Consejos prácticos",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "Para quitar el olor a ajo de las manos, frótalas con acero inoxidable (como una cuchara) bajo agua fría.",
+          "author": "Consejo de hogar"
+        },
+        {
+          "id": 2,
+          "text": "Pon una cucharada de bicarbonato de sodio en el fondo del bote de basura para absorber los olores.",
+          "author": "Consejo de hogar"
+        },
+        {
+          "id": 3,
+          "text": "Antes de una entrevista de trabajo, practica respuestas a preguntas comunes frente a un espejo para mejorar tu lenguaje corporal.",
+          "author": "Consejo profesional"
+        },
+        {
+          "id": 4,
+          "text": "Si necesitas enfriar una bebida rápidamente, envuelve la botella en una toalla húmeda y métela en el congelador por 15 minutos.",
+          "author": "Consejo de cocina"
+        },
+        {
+          "id": 5,
+          "text": "Usa vinagre blanco y bicarbonato para limpiar desagües de forma natural y evitar atascos.",
+          "author": "Consejo de limpieza"
+        },
+        {
+          "id": 6,
+          "text": "Para evitar que los zapatos nuevos te lastimen, usa un secador de cabello en las áreas ajustadas mientras los llevas puestos con calcetines gruesos.",
+          "author": "Consejo de moda"
+        },
+        {
+          "id": 7,
+          "text": "Si olvidaste poner desodorante, usa un poco de bicarbonato de sodio para neutralizar el olor corporal.",
+          "author": "Consejo de higiene"
+        },
+        {
+          "id": 8,
+          "text": "Para evitar que la cebolla te haga llorar, enfríala en el refrigerador antes de cortarla.",
+          "author": "Consejo de cocina"
+        },
+        {
+          "id": 9,
+          "text": "Lleva una libreta de apuntes o usa una app de notas para anotar ideas importantes en cualquier momento.",
+          "author": "Consejo de productividad"
+        },
+        {
+          "id": 10,
+          "text": "Para recuperar la suavidad de una toalla áspera, lávala con vinagre blanco en lugar de suavizante.",
+          "author": "Consejo de lavandería"
+        },
+        {
+          "id": 11,
+          "text": "Si se te cierra un archivo de Word sin guardar, búscalo en 'Recuperación de documentos' al reiniciar la aplicación.",
+          "author": "Consejo de tecnología"
+        },
+        {
+          "id": 12,
+          "text": "Usa una bola de papel de aluminio en la secadora para reducir la estática en la ropa.",
+          "author": "Consejo de lavandería"
+        },
+        {
+          "id": 13,
+          "text": "Si tienes una llanta baja y no encuentras la fuga, pon agua con jabón en la superficie y busca burbujas.",
+          "author": "Consejo automotriz"
+        },
+        {
+          "id": 14,
+          "text": "Para eliminar chicle pegado en la ropa, congélalo y luego ráspalo con una tarjeta de plástico.",
+          "author": "Consejo de limpieza"
+        },
+        {
+          "id": 15,
+          "text": "Si necesitas recordar algo importante, colócalo en un lugar inusual para que llame tu atención.",
+          "author": "Consejo de organización"
+        },
+        {
+          "id": 16,
+          "text": "Para evitar el mal olor en los zapatos, coloca bolsitas de té secas dentro de ellos por la noche.",
+          "author": "Consejo de higiene"
+        },
+        {
+          "id": 17,
+          "text": "Cuando viajes, enrolla tu ropa en lugar de doblarla para ahorrar espacio en la maleta.",
+          "author": "Consejo de viajes"
+        },
+        {
+          "id": 18,
+          "text": "Si tu celular se moja, colócalo en una bolsa con arroz seco durante 24 horas para absorber la humedad.",
+          "author": "Consejo de tecnología"
+        },
+        {
+          "id": 19,
+          "text": "Para evitar que los espejos se empañen después de la ducha, frótalos con un poco de crema de afeitar y límpialos con un paño seco.",
+          "author": "Consejo de baño"
+        },
+        {
+          "id": 20,
+          "text": "Si necesitas cargar tu celular más rápido, ponlo en modo avión mientras lo cargas.",
+          "author": "Consejo de tecnología"
+        }
+      ]
+    },
+    {
+      "id": "special_occasions",
+      "name": "Ocasiones especiales",
+      "quotes": [
+        {
+          "id": 1,
+          "text": "Que cada día de tu nuevo año de vida esté lleno de hermosos momentos y bendiciones.",
+          "author": "Para cumpleaños"
+        },
+        {
+          "id": 2,
+          "text": "Te deseo toda la felicidad del mundo en este día tan especial. ¡Felicidades por tu boda!",
+          "author": "Para bodas"
+        },
+        {
+          "id": 3,
+          "text": "En este momento difícil, quiero que sepas que estoy contigo. Tu fortaleza es inspiradora.",
+          "author": "Para momentos difíciles"
+        },
+        {
+          "id": 4,
+          "text": "Que la magia de la Navidad ilumine tu hogar con amor, paz y felicidad.",
+          "author": "Para Navidad"
+        },
+        {
+          "id": 5,
+          "text": "Que este nuevo año traiga consigo salud, amor y prosperidad para ti y los tuyos.",
+          "author": "Para Año Nuevo"
+        },
+        {
+          "id": 6,
+          "text": "Gracias por tu esfuerzo y dedicación. ¡Feliz Día del Trabajador!",
+          "author": "Para el Día del Trabajador"
+        },
+        {
+          "id": 7,
+          "text": "Un abrazo enorme en este día tan especial. ¡Feliz Día de la Madre!",
+          "author": "Para el Día de la Madre"
+        },
+        {
+          "id": 8,
+          "text": "Siempre estaré agradecido por tu amor y apoyo. ¡Feliz Día del Padre!",
+          "author": "Para el Día del Padre"
+        },
+        {
+          "id": 9,
+          "text": "Felicidades en este nuevo capítulo de tu vida. ¡Mucho éxito en tu jubilación!",
+          "author": "Para jubilaciones"
+        },
+        {
+          "id": 10,
+          "text": "Un brindis por los recién graduados. ¡Tu esfuerzo ha valido la pena!",
+          "author": "Para graduaciones"
+        },
+        {
+          "id": 11,
+          "text": "¡Bienvenido al mundo, pequeño tesoro! Que tu vida esté llena de amor y felicidad.",
+          "author": "Para nacimientos"
+        },
+        {
+          "id": 12,
+          "text": "Que el amor y la unión sigan siendo la base de su matrimonio. ¡Feliz aniversario!",
+          "author": "Para aniversarios de bodas"
+        },
+        {
+          "id": 13,
+          "text": "Espero que te mejores pronto. Te envío mis mejores deseos y un fuerte abrazo.",
+          "author": "Para recuperación de salud"
+        },
+        {
+          "id": 14,
+          "text": "Felices fiestas patrias. Que la unión y la alegría llenen este día de celebración.",
+          "author": "Para días festivos nacionales"
+        },
+        {
+          "id": 15,
+          "text": "Gracias por ser un amigo increíble. ¡Feliz Día de la Amistad!",
+          "author": "Para el Día de la Amistad"
+        },
+        {
+          "id": 16,
+          "text": "Tu dedicación y valentía son admirables. ¡Feliz Día del Maestro!",
+          "author": "Para el Día del Maestro"
+        },
+        {
+          "id": 17,
+          "text": "Felices Pascuas. Que la paz y la esperanza llenen tu corazón en este día especial.",
+          "author": "Para Pascua"
+        },
+        {
+          "id": 18,
+          "text": "Que este logro sea solo el comienzo de una vida llena de éxitos. ¡Felicidades!",
+          "author": "Para logros personales"
+        },
+        {
+          "id": 19,
+          "text": "Es un placer trabajar contigo. Gracias por tu esfuerzo y compromiso.",
+          "author": "Para agradecimiento laboral"
+        },
+        {
+          "id": 20,
+          "text": "Que este día especial esté lleno de amor y alegría. ¡Felices quince años!",
+          "author": "Para quinceañeras"
+        }
+      ]
+    }
+  ]
+}
